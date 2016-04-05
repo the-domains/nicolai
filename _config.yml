@@ -1,0 +1,14 @@
+layout_spectrum: 0.3843738
+typography_spectrum: 0.7842481
+color:
+  saturation: 0.8707719
+  lightness: 0.1780318
+  brandStrength: 0.4296889
+  rhythmicContrast: 0.04436191
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+name: Nicolai
