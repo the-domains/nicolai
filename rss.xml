@@ -4,7 +4,7 @@
         <description><![CDATA[Nicolai]]></description>
         <link>https://thegrid.ai/nicolai/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 06 Apr 2016 07:13:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Apr 2016 07:18:19 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/nicolai/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,13 +12,6 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/f8ebaf84-0a8f-41d7-aff8-09ff89295ed4.png</link>
             <guid isPermaLink="false">1be67b97-e085-4372-bdc6-6c44172a1e2e</guid>
             <pubDate>Wed, 06 Apr 2016 07:11:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[London]]></title>
-            <description><![CDATA[<h1>London</h1>]]></description>
-            <link>https://thegrid.ai/nicolai/london/index.html</link>
-            <guid isPermaLink="false">87896d09-b505-4ed0-9774-e686a6ea83f1</guid>
-            <pubDate>Tue, 05 Apr 2016 13:06:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
