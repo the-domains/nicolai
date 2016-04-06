@@ -2,6 +2,7 @@ name: Nicolai
 favicon: null
 layout_spectrum: 0.24441
 typography_spectrum: 0.25939
+title: street
 cta:
   domain: null
   bucket: null
